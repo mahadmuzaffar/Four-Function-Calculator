@@ -6,5 +6,3 @@ A simple calculator developed by Python with a user-friendly command-line interf
 - Subtraction
 - Multiplication
 - Division
-
-Created by Mahad Muzaffar
