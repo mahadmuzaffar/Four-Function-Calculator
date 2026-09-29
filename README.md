@@ -1,2 +1,10 @@
 # Four-Function-Calculator
-Developed a Python-based calculator capable of performing addition, subtraction, multiplication, and division through a user-friendly command-line interface.
+
+A simple calculator developed by Python capable of performing addition, subtraction, multiplication, and division through a user-friendly command-line interface.
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+- Created by Mahad Muzaffar
