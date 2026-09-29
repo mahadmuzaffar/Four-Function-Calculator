@@ -7,4 +7,4 @@ A simple calculator developed by Python capable of performing addition, subtract
 - Multiplication
 - Division
 
-- Created by Mahad Muzaffar
+Created by Mahad Muzaffar
